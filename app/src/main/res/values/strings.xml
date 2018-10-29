@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Movie Kuy</string>
+    <string name="nav_header_title">Ridwan Aji Pamungkas</string>
+    <string name="nav_header_subtitle">droidaji@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_home_tab_fragment">HomeTabFragment</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!--for localization-->
+    <string name="find_movie">Input Movie Name</string>
+    <string name="find">SEARCH</string>
+    <string name="find_title">SEARCH MOVIE</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="date_release">Date Release</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="upcoming">COMING SOON</string>
+    <string name="action_settings">Change Language</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home">Home</string>
+    <string name="findmovie">Find Movie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movieTitle">Movie Title</string>
+    <string name="movieOverview">Overview</string>
+    <string name="releaseDate">Release Date</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="image_movie">Image Movie</string>
+</resources>
